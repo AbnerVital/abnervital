@@ -1,11 +1,20 @@
-## Olá, eu sou Abner Vital, um jovem estudante de programação apaixonado por tecnologia e inovação. Estou constantemente aprimorando meus conhecimentos para me tornar um desenvolvedor completo, explorando diferentes linguagens e ferramentas. Meu objetivo é construir soluções eficientes e criativas que façam a diferença no mundo da tecnologia.
+## Olá! Eu sou o Abner Vital 👋
+
+Sou um entusiasta da programação em busca de me tornar um **desenvolvedor back-end completo**. Curioso por natureza, estou sempre estudando e testando coisas novas no mundo da tecnologia.
+
+Atualmente, já tenho uma boa base com **HTML**, **CSS**, **JavaScript** e **PostgreSQL**, e agora estou focado em aprender **Java** e o poderoso **Spring Framework** para criar aplicações robustas e escaláveis.
+
+Gosto de escrever código limpo, aprender novas ferramentas e pensar em soluções que realmente façam a diferença. Por aqui você vai encontrar projetos, testes de ideias e bastante código em constante evolução.
+
+**Bora codar! 🚀**
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="abner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="abner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="abner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="abner-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rafa-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
  
 </div>
   
