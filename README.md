@@ -18,13 +18,6 @@ Atualmente estudo e trabalho com as seguintes tecnologias:
 
 <br/>
 
-### 📊 Desempenho de Contribuições
-
-![Abner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbnerVital&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerVital&layout=compact&theme=radical)
-
----
-
 ### 📚 Formação Técnica
 
 - **Análise e Desenvolvimento de Sistemas** (Estácio – Em andamento)
